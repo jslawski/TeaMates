@@ -1,2 +1,0 @@
-C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\Definitions.TeaMates.h
-C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Source\TeaMates\TeaMates.h
