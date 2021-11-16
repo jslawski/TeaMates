@@ -899,3 +899,179 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.16-18.04.32:034][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.11.16-18.04.32:035][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.11.16-18.04.38:329][429]LogSlate: Window 'About Unreal Editor' being destroyed
+[2021.11.16-18.08.12:940][611]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.16-18.10.15:605][736]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.11.25:055][824]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.11.25:055][824]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.12.19:307][175]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.16-18.12.19:310][175]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.16-18.12.22:481][284]LogSlate: Window 'Save Level As' being destroyed
+[2021.11.16-18.12.49:551][ 87]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.15.02:500][757]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.19.27:503][548]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.31.10:402][648]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.31.10:402][648]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.35.32:949][433]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.35.54:725][498]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.37.13:369][733]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/3 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-18.37.13:370][733]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=155.98.167.114:49552, Sequence=0
+[2021.11.16-19.02.56:595][685]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.16-19.02.56:619][685]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.16-19.02.56:669][685]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.16-19.04.19:026][799]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/TeaMates.uproject" -game -rocket -progress
+[2021.11.16-19.04.19:330][799]Discovering modules, targets and source code for project...
+[2021.11.16-19.04.27:079][799]Binding IntelliSense data...
+[2021.11.16-19.04.32:120][799]Binding IntelliSense data... 100%
+[2021.11.16-19.04.32:120][799]Writing project files...
+[2021.11.16-19.04.33:831][799]Writing project files... 100%
+[2021.11.16-19.04.33:932][799]LogHotReload: Recompiling module TeaMates...
+[2021.11.16-19.04.33:935][799]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.11.16-19.04.33:940][799]Candidate modules for hot reload:
+[2021.11.16-19.04.33:940][799]  TeaMates
+[2021.11.16-19.04.33:941][799]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TeaMates,7298 TeaMatesEditor Win64 Development -Project="C:/Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/TeaMates.uproject" "C:/Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/TeaMates.uproject"  -IgnoreJunk]
+[2021.11.16-19.05.05:296][799]Using 'git status' to determine working set for adaptive non-unity build (C:\Users\u1306392\source\repos\TeaMates\TeaMates).
+Creating makefile for TeaMatesEditor (no existing makefile)
+Parsing headers for TeaMatesEditor
+  Running UnrealHeaderTool "C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\TeaMates.uproject" "C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\TeaMatesEditor\Development\TeaMatesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\u1306392\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+LogInit: Display: Loading text-based GConfig....
+Reflection code generated for TeaMatesEditor in 5.5513828 seconds
+Building TeaMatesEditor...
+Using Visual Studio 2019 14.29.30040 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30037) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 9 actions with 16 processes...
+  [1/9] Default.rc2
+  [2/9] SharedPCH.Engine.ShadowErrors.cpp
+  [3/9] TeaMates.cpp
+  [4/9] TeaMates.init.gen.cpp
+  [5/9] Pot.cpp
+  [6/9] Pot.gen.cpp
+  [7/9] UE4Editor-TeaMates-7298.lib
+     Creating library C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-7298.lib and object C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-7298.exp
+  [8/9] UE4Editor-TeaMates-7298.dll
+     Creating library C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-7298.suppressed.lib and object C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-7298.suppressed.exp
+  [9/9] TeaMatesEditor.target
+Total time in Parallel executor: 19.48 seconds
+Total execution time: 31.28 seconds
+
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: New page: Compilation - Nov 16, 2021, 5:05:05 AM
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\u1306392\source\repos\TeaMates\TeaMates).
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: Creating makefile for TeaMatesEditor (no existing makefile)
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: Parsing headers for TeaMatesEditor
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\TeaMates.uproject" "C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\TeaMatesEditor\Development\TeaMatesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\u1306392\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: Reflection code generated for TeaMatesEditor in 5.5513828 seconds
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: Building TeaMatesEditor...
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: Using Visual Studio 2019 14.29.30040 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30037) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: Building 9 actions with 16 processes...
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   [1/9] Default.rc2
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   [2/9] SharedPCH.Engine.ShadowErrors.cpp
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   [3/9] TeaMates.cpp
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   [4/9] TeaMates.init.gen.cpp
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   [5/9] Pot.cpp
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   [6/9] Pot.gen.cpp
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   [7/9] UE4Editor-TeaMates-7298.lib
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:      Creating library C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-7298.lib and object C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-7298.exp
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   [8/9] UE4Editor-TeaMates-7298.dll
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:      Creating library C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-7298.suppressed.lib and object C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-7298.suppressed.exp
+[2021.11.16-19.05.05:297][799]CompilerResultsLog:   [9/9] TeaMatesEditor.target
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: Total time in Parallel executor: 19.48 seconds
+[2021.11.16-19.05.05:297][799]CompilerResultsLog: Total execution time: 31.28 seconds
+[2021.11.16-19.05.05:297][799]LogMainFrame: MainFrame: Module compiling took 31.362 seconds
+[2021.11.16-19.05.05:298][799]Reloading module TeaMates after successful compile.
+[2021.11.16-19.05.05:311][799]LogClass: Could not find existing package /Script/TeaMates for HotReload of class Pot, assuming a new package.
+[2021.11.16-19.05.05:312][799]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TeaMates' in 0.0003 seconds. Added 1 classes and 4 folders.
+[2021.11.16-19.05.05:318][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.16-19.05.05:328][799]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0072 seconds. Added 3823 classes and 932 folders.
+[2021.11.16-19.05.05:445][799]LogSlate: Window 'Add C++ Class' being destroyed
+[2021.11.16-19.05.53:703][582]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.16-19.24.16:082][675]Candidate modules for hot reload:
+[2021.11.16-19.24.16:082][675]  TeaMates
+[2021.11.16-19.24.16:082][675]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TeaMates,0768 TeaMatesEditor Win64 Development -Project="C:/Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/TeaMates.uproject" "C:/Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/TeaMates.uproject"  -IgnoreJunk]
+[2021.11.16-19.24.16:084][675]Warning: Starting HotReload took  0.0s.
+[2021.11.16-19.24.17:377][766]CompilerResultsLog: New page: Compilation - Nov 16, 2021, 5:24:17 AM
+[2021.11.16-19.24.17:377][766]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\u1306392\source\repos\TeaMates\TeaMates).
+[2021.11.16-19.24.17:377][766]CompilerResultsLog: Building TeaMatesEditor...
+[2021.11.16-19.24.17:377][766]CompilerResultsLog: Using Visual Studio 2019 14.29.30040 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30037) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.16-19.24.17:377][766]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.11.16-19.24.17:377][766]CompilerResultsLog:   [1/3] UE4Editor-TeaMates-0768.lib
+[2021.11.16-19.24.17:377][766]CompilerResultsLog:      Creating library C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-0768.lib and object C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-0768.exp
+[2021.11.16-19.24.17:377][766]CompilerResultsLog:   [2/3] UE4Editor-TeaMates-0768.dll
+[2021.11.16-19.24.17:377][766]CompilerResultsLog:      Creating library C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-0768.suppressed.lib and object C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-0768.suppressed.exp
+[2021.11.16-19.24.17:377][766]CompilerResultsLog:   [3/3] TeaMatesEditor.target
+[2021.11.16-19.24.17:377][766]CompilerResultsLog: Total time in Parallel executor: 0.71 seconds
+[2021.11.16-19.24.17:377][766]CompilerResultsLog: Total execution time: 1.25 seconds
+[2021.11.16-19.24.17:377][766]LogMainFrame: MainFrame: Module compiling took 1.298 seconds
+[2021.11.16-19.24.17:394][766]LogHotReload: Re-instancing Pot after hot-reload.
+[2021.11.16-19.24.17:398][766]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TeaMates' in 0.0003 seconds. Added 1 classes and 4 folders.
+[2021.11.16-19.24.17:400][766]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.11.16-19.24.17:439][766]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0075 seconds. Added 3823 classes and 932 folders.
+[2021.11.16-19.24.17:440][766]Display: HotReload took  1.4s.
+[2021.11.16-19.28.26:100][633]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.11.16-19.28.26:103][633]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.11.16-19.28.56:221][318]LogSlate: Window 'Save Level As' being destroyed
+[2021.11.16-19.28.56:265][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaredMap" FILE="../../../../../../Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/Content/Maps/JaredMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.16-19.28.56:270][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.11.16-19.28.56:283][318]LogSavePackage: Moving '../../../../../../Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/Saved/JaredMapDEE802954E697FDE00477492111BD7A9.tmp' to '../../../../../../Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/Content/Maps/JaredMap.umap'
+[2021.11.16-19.28.56:287][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaredMap_BuiltData" FILE="../../../../../../Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/Content/Maps/JaredMap_BuiltData.uasset" SILENT=true
+[2021.11.16-19.28.56:298][318]LogSavePackage: Moving '../../../../../../Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/Saved/JaredMap_BuiltData8E18EBE54EC4CDBEF22A4D883F820B4A.tmp' to '../../../../../../Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/Content/Maps/JaredMap_BuiltData.uasset'
+[2021.11.16-19.28.56:303][318]LogFileHelpers: Saving map 'JaredMap' took 0.077
+[2021.11.16-19.28.56:305][318]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.16-19.28.56:305][318]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/JaredMap_BuiltData.JaredMap_BuiltData
+[2021.11.16-19.28.56:305][318]LogContentValidation: Display: Validating World /Game/Maps/JaredMap.JaredMap
+[2021.11.16-19.29.03:411][604]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.16-19.29.43:313][322]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.16-19.29.43:317][322]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.16-19.56.44:816][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.16-19.56.49:135][197]LogSlate: Took 0.003670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.16-19.57.56:255][612]Candidate modules for hot reload:
+[2021.11.16-19.57.56:255][612]  TeaMates
+[2021.11.16-19.57.56:255][612]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TeaMates,9260 TeaMatesEditor Win64 Development -Project="C:/Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/TeaMates.uproject" "C:/Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/TeaMates.uproject"  -IgnoreJunk]
+[2021.11.16-19.57.56:257][612]Warning: Starting HotReload took  0.0s.
+[2021.11.16-19.57.57:460][703]CompilerResultsLog: New page: Compilation - Nov 16, 2021, 5:57:57 AM
+[2021.11.16-19.57.57:460][703]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\u1306392\source\repos\TeaMates\TeaMates).
+[2021.11.16-19.57.57:460][703]CompilerResultsLog: Building TeaMatesEditor...
+[2021.11.16-19.57.57:460][703]CompilerResultsLog: Using Visual Studio 2019 14.29.30040 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30037) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.11.16-19.57.57:460][703]CompilerResultsLog: Building 3 actions with 16 processes...
+[2021.11.16-19.57.57:460][703]CompilerResultsLog:   [1/3] UE4Editor-TeaMates-9260.lib
+[2021.11.16-19.57.57:460][703]CompilerResultsLog:      Creating library C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-9260.lib and object C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-9260.exp
+[2021.11.16-19.57.57:460][703]CompilerResultsLog:   [2/3] UE4Editor-TeaMates-9260.dll
+[2021.11.16-19.57.57:460][703]CompilerResultsLog:      Creating library C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-9260.suppressed.lib and object C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-9260.suppressed.exp
+[2021.11.16-19.57.57:460][703]CompilerResultsLog:   [3/3] TeaMatesEditor.target
+[2021.11.16-19.57.57:460][703]CompilerResultsLog: Total time in Parallel executor: 0.67 seconds
+[2021.11.16-19.57.57:460][703]CompilerResultsLog: Total execution time: 1.16 seconds
+[2021.11.16-19.57.57:460][703]LogMainFrame: MainFrame: Module compiling took 1.207 seconds
+[2021.11.16-19.57.57:476][703]LogClass: Could not find existing class Pot in package /Script/TeaMates for HotReload, assuming new class
+[2021.11.16-19.57.57:480][703]LogHotReload: Re-instancing Pot after hot-reload.
+[2021.11.16-19.57.57:484][703]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TeaMates' in 0.0003 seconds. Added 1 classes and 4 folders.
+[2021.11.16-19.57.57:486][703]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.11.16-19.57.57:496][703]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0076 seconds. Added 3823 classes and 932 folders.
+[2021.11.16-19.57.57:496][703]Display: HotReload took  1.2s.
+[2021.11.16-19.58.42:849][245]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.11.16-19.58.42:851][245]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.11.16-19.59.16:282][285]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Pot.BP_Pot
+[2021.11.16-19.59.16:499][285]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.11.16-19.59.17:110][285]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2021.11.16-19.59.17:205][285]LogRenderer: Reallocating scene render targets to support 1144x900 Format 10 NumSamples 1 (Frame:1).
+[2021.11.16-20.09.23:441][322]LogSlate: Window 'BP_Pot' being destroyed
+[2021.11.16-20.09.23:445][322]LogSlate: Window 'BP_Pot' being destroyed
+[2021.11.16-20.09.23:447][322]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.16-20.09.23:447][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.16-20.09.48:400][108]LogMetaData: Removing '/Game/Blueprints/BP_Pot.BP_Pot:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_Pot.PackageMetaData'
+[2021.11.16-20.09.48:400][108]LogMetaData: Removing '/Game/Blueprints/BP_Pot.SKEL_BP_Pot_C:UserConstructionScript' ref from Metadata '/Game/BP_Pot.PackageMetaData'
+[2021.11.16-20.09.48:400][108]LogMetaData: Removing '/Game/Blueprints/BP_Pot.SKEL_BP_Pot_C' ref from Metadata '/Game/BP_Pot.PackageMetaData'
+[2021.11.16-20.09.48:400][108]LogMetaData: Removing '/Game/Blueprints/BP_Pot.BP_Pot_C' ref from Metadata '/Game/BP_Pot.PackageMetaData'
+[2021.11.16-20.09.48:400][108]LogMetaData: Removing '/Game/Blueprints/BP_Pot.BP_Pot:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_Pot.PackageMetaData'
+[2021.11.16-20.09.48:400][108]LogMetaData: Removing '/Game/Blueprints/BP_Pot.BP_Pot:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_Pot.PackageMetaData'
+[2021.11.16-20.09.48:400][108]LogMetaData: Removing '/Game/Blueprints/BP_Pot.BP_Pot:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_Pot.PackageMetaData'
+[2021.11.16-20.09.48:418][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pot" FILE="../../../../../../Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/Content/Blueprints/BP_Pot.uasset" SILENT=true
+[2021.11.16-20.09.48:421][108]LogSavePackage: Moving '../../../../../../Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/Saved/BP_PotCDB2BB764C8245075C7965A6B586334B.tmp' to '../../../../../../Users/u1306392/source/repos/TeaMates/TeaMates/TeaMates/Content/Blueprints/BP_Pot.uasset'
+[2021.11.16-20.09.48:467][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.11.16-20.09.48:487][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.11.16-20.09.48:499][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.11.16-20.09.48:525][108]AssetCheck: New page: Asset Save: BP_Pot
+[2021.11.16-20.09.48:525][108]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Pot.BP_Pot
+[2021.11.16-20.09.58:156][ 48]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.16-20.09.58:164][ 48]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.16-20.09.58:171][ 48]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.16-20.10.03:840][711]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameModeBase
+[2021.11.16-20.10.03:843][711]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.16-20.10.17:969][901]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameModeBase.BP_GameModeBase

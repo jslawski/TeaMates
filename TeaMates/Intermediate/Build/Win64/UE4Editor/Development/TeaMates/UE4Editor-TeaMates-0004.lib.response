@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TeaMates-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\TeaMatesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\Pot.cpp.obj"
+"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\TeaMates.cpp.obj"
+"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\Pot.gen.cpp.obj"
+"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\TeaMates.init.gen.cpp.obj"
+"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\Default.rc2.res"
+/OUT:"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\UE4Editor-TeaMates-0004.lib"
