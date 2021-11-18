@@ -37,7 +37,7 @@ void APot::MoveVertical(float value)
 {
     if (Controller != NULL && value != 0.0f)
     {
-        const FVector direction = FVector(0.0f, 0.0f, 1.0f);
+        const FVector direction = FVector(1.0f, 0.0f, 0.0f);
         AddMovementInput(direction, value);
     }
 }
