@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Source\TeaMates\Private
+/I C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Source\TeaMates\Private
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -232,9 +232,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Inc\TeaMates
-/I C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Source
-/I C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Source\TeaMates\Public
+/I C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Intermediate\Build\Win64\UE4Editor\Inc\TeaMates
+/I C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Source
+/I C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Source\TeaMates\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -264,12 +264,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\TeaMatesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\TeaMatesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\TeaMatesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Source\TeaMates\Private\Characters\Pot.cpp"
-/FI"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\Definitions.TeaMates.h"
-/Fo"C:\Users\u1306392\source\repos\TeaMates\TeaMates\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\Pot.cpp.obj"
+/FI"C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Intermediate\Build\Win64\TeaMatesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Intermediate\Build\Win64\TeaMatesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Intermediate\Build\Win64\TeaMatesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Source\TeaMates\Private\Characters\Pot.cpp"
+/FI"C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\Definitions.TeaMates.h"
+/Fo"C:\Users\u1330176\Desktop\TeaMates-feature-character-movement\TeaMates\Intermediate\Build\Win64\UE4Editor\Development\TeaMates\Pot.cpp.obj"
 /TP
 /GR-
 /W4

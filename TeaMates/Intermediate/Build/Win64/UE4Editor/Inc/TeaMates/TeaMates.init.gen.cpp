@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeTeaMates_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xFCC6349D,
-				0xAB44C163,
+				0x2E2EAFE7,
+				0x443517EE,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

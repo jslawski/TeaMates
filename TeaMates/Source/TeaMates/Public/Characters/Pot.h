@@ -28,13 +28,9 @@ public:
     UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Camera")
     UStaticMeshComponent* meshComp;
 
-protected:
-
     void MoveHorizontal(float value);
     void MoveVertical(float value);
-
-public:	
+	
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
-
 };

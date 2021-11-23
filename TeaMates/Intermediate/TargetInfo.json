@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "TeaMates",
-			"Path": "C:\\Users\\u1306392\\source\\repos\\TeaMates\\TeaMates\\TeaMates\\Source\\TeaMates.Target.cs",
+			"Path": "C:\\Users\\u1330176\\Desktop\\TeaMates-feature-character-movement\\TeaMates\\Source\\TeaMates.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TeaMatesEditor",
-			"Path": "C:\\Users\\u1306392\\source\\repos\\TeaMates\\TeaMates\\TeaMates\\Source\\TeaMatesEditor.Target.cs",
+			"Path": "C:\\Users\\u1330176\\Desktop\\TeaMates-feature-character-movement\\TeaMates\\Source\\TeaMatesEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
